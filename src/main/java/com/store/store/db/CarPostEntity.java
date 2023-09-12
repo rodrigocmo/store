@@ -14,7 +14,7 @@ import java.util.Objects;
 @AllArgsConstructor
 @EqualsAndHashCode
 @Entity
-@Table(name="car_post")
+@Table(name = "car_post")
 public class CarPostEntity {
 
     @Id
